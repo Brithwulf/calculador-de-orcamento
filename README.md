@@ -1,2 +1,6 @@
-# calculador-de-orcamento
-projeto que calcula movimentos de uma conta e faz um orçamento
+# Formatador Aritmético
+
+Um projeto do freeCodeCamp que calcula o orçamento de uma conta.
+
+## 📌 Tecnologias usadas:
+- Python
