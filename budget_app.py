@@ -73,12 +73,3 @@ def create_spend_chart(categories):
         output += "\n"
 
     return output.rstrip("\n")
-        
-
-food = Category('Food')
-food.deposit(1000, 'deposit')
-food.withdraw(10.15, 'groceries')
-food.withdraw(15.89, 'restaurant and more food for dessert')
-clothing = Category('Clothing')
-food.transfer(50, clothing)
-print(food)
